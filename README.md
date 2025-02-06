@@ -18,7 +18,7 @@ For this assignment, you will see that Household and Guardian have been complete
 After you have finished writing your code, run the tests in main and ad a few more of your own to test your work.
 
 ## Step 4: Turning In
-Once finished, be sure to submit your code to Zybooks and make sure to get your self-explanation checked.
+Once finished, be sure to submit your code to Canvas and make sure to get your self-explanation checked.
 
 # Additional Information
 ## This keyword
